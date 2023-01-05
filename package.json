@@ -1,0 +1,19 @@
+{
+  "name": "mrantigg_9.5.1",
+  "version": "1.0.0",
+  "description": "task 9.5.1",
+  "main": "array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrAntigg/9.5.1.git"
+  },
+  "author": "Solntsev D.E.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrAntigg/9.5.1/issues"
+  },
+  "homepage": "https://github.com/MrAntigg/9.5.1#readme"
+}
